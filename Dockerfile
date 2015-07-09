@@ -1,4 +1,4 @@
-FROM mhasa004/centos-cuda7.0-torch7
+FROM mhasa004/centos-cuda7.0
 MAINTAINER Mahmudul Hasan <mhasa004@ucr.edu>
 
 # install torch7
